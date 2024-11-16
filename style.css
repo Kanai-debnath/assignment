@@ -1,0 +1,100 @@
+
+.navbar-brand{
+  padding-left: 50px;
+  margin:0;  
+}
+.nav-item{
+  text-decoration: none;
+  font-size: 13px;
+}
+.navar-nav{
+  font-size: 10px;
+}
+.nav-link{
+  
+  transition: all 0,2s;
+}
+.nav-link:hover{
+border-bottom:2px solid red ;
+}
+
+.contact{
+  color:blue;
+ padding: 10px 15px;
+ font-size: 16px;
+ font-weight: bold;
+ border-radius: 2px;
+}
+.contact{
+  float: 50px;
+  margin-right: 50px;
+}
+
+.main-bg{
+  padding: 100px;
+  
+  background-color:rgb(245,252,255); 
+}
+
+.card-1{
+  border-style: double;
+  background-color:rgb(245,252,255);
+}
+
+.p-1{
+ width: 60px;
+ height: 60px;
+}
+.card-title{
+  padding-left: 12px;
+}
+
+
+.card-text{
+  padding-left: 10px;
+  padding-left: 10px;
+
+}
+.photo-1{ 
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.container{
+  padding: 20px;
+}
+
+.img{
+ padding: 50px;
+float: right;
+ width: 220px;
+}
+.p-2{
+  width: 120px;
+
+}
+.card-2{
+  padding: 30px;
+  border-style: dashed;
+}
+.justify-content-center{
+  text-align: center;
+}
+
+.section-padding{
+  padding-top: 100px;
+}
+
+.container-fluid{
+  padding-top: 10px;
+  background-color: rgb(245,252,255);
+}
+.footer{
+
+  background-color: rgb(245,252,255);
+
+}
+.h5{
+  float: right;
+
+}
